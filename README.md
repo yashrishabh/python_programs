@@ -1,2 +1,2 @@
 # python_programs
-all practice program in python
+All python programs practice purpose
